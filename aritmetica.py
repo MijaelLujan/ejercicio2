@@ -4,3 +4,6 @@ def suma(a, b):
 
 def raiz_cuadrada(a):
     return math.sqrt(a)
+
+def cuadrado(a):
+    return a ** 2
