@@ -7,3 +7,6 @@ def raiz_cuadrada(a):
 
 def cuadrado(a):
     return a ** 2
+
+def division(a, b):
+    return a / b
