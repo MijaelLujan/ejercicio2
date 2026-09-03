@@ -17,3 +17,6 @@ def division(a, b):
 
 def potencia(a, b):
     return a ** b
+
+def valor_absoluto(a):
+    return abs(a)
