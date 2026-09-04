@@ -26,3 +26,6 @@ def doble(a):
 
 def multiplicacion(a, b):
     return a * b
+
+def mitad(a):
+    return a / 2
