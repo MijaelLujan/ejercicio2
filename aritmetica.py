@@ -12,7 +12,6 @@ def raiz_cuadrada(a):
 def cuadrado(a):
     return a ** 2
 
-<<<<<<< HEAD
 def division(a, b):
     return a / b
 
@@ -30,7 +29,7 @@ def multiplicacion(a, b):
 
 def mitad(a):
     return a / 2
-=======
+
 def modulo(a, b):
     return a % b
->>>>>>> feature/modulo
+
