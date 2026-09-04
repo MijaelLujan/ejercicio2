@@ -23,3 +23,6 @@ def valor_absoluto(a):
 
 def doble(a):
     return a * 2
+
+def multiplicacion(a, b):
+    return a * b
