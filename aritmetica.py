@@ -20,3 +20,6 @@ def potencia(a, b):
 
 def valor_absoluto(a):
     return abs(a)
+
+def doble(a):
+    return a * 2
